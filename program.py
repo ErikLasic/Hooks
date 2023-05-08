@@ -15,6 +15,6 @@ def calculate_area(length, width):
 greet("John")
 # Output: Hello, John. How are you doing?
 
-area = calculate_area(5, 3)
-print("The area of the rectangle is", area)
+NEW_AREA = calculate_area(5, 3)
+print("The area of the rectangle is", NEW_AREA)
 # Output: The area of the rectangle is 15
